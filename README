@@ -1,0 +1,5 @@
+## Six Degrees of Separation Demo
+## Joe Sangiolo (12/23/20) **
+### This demo uses graph theory principles to find the shortest 'path' between two people. It uses the IMDb database to connect people on IMDb (actors, writers, directors, etc.) with each other through shared movies/tv shows.
+
+**originally created May 2020, but updated recently
